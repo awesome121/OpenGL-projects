@@ -2,7 +2,7 @@
 
 Use this repository to write practice examples
 
-Syncrhonized Animation:
+Synchronized Animation:
 
 <img src="/pendulum1.png" width=500 height=500>
 <img src="/pendulum2.png" width=500 height=500>
