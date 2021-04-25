@@ -1,1 +1,3 @@
-# openGL_practice
+# OpenGL practice
+
+Use this repository to write practice examples
