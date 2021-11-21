@@ -1,8 +1,11 @@
-# OpenGL practice
+# OpenGL projects
 
-Use this repository to write practice examples
+## OpenGL on Linux
+Please see https://www.wikihow.com/Install-Mesa-%28OpenGL%29-on-Linux-Mint
+## Build
 
-Synchronized Animation:
+
+Some screenshots from Synchronized Animation:
 
 <img src="/pendulum1.png" width=500 height=500>
 <img src="/pendulum2.png" width=500 height=500>
