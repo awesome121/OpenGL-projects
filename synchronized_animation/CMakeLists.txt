@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 
 project(Pendulum)
 
-add_executable(pendulum.out pendulum.cpp)
+add_executable(Pendulum.out pendulum.cpp)
 
 find_package(OpenGL REQUIRED)
 find_package(GLUT REQUIRED)
