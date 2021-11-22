@@ -20,11 +20,16 @@ sudo apt-get install libglm-dev
 ```
 
 ## Build
-Change working directory to a project root directory.
+Change working directory to a project root directory.</br></br>
+_Execute CMakeList.txt_
 ```
 cmake .
 ```
-Then run the corresponding executable (e.g. a.out)
+_Build the project_
+```
+make
+```
+_Then run the corresponding executable (e.g. a.out)_
 ```
 ./a.out
 ```
