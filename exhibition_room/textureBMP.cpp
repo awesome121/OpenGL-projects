@@ -7,7 +7,7 @@
 // University of Canterbury, Christchurch, New Zealand.
 //=====================================================================
 
-#include "TextureBMP.h"
+#include "textureBMP.h"
 
 TextureBMP::TextureBMP(const char* filename)
 {
